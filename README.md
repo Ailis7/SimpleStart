@@ -1,4 +1,4 @@
-### Описание
+## Описание
 
 Создайте проект на GitHub-проект, после чего с помощью `npm install` загрузите модули:
 1. npm init	- добавьте ваши названия.
@@ -7,4 +7,4 @@
 1. .gitignore - рекомендуемый
 1. jest
 
-# Доп. документация по отдельной настройке: https://docs.google.com/spreadsheets/d/1EDO8znq7vlUwkNEkgQojpIi_tVagm4X92IQYX-s2MSo/edit#gid=0
+### Доп. документация по отдельной настройке: https://docs.google.com/spreadsheets/d/1EDO8znq7vlUwkNEkgQojpIi_tVagm4X92IQYX-s2MSo/edit#gid=0
